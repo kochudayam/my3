@@ -415,7 +415,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_jBupBteYEeKxv-uxZe5vfg" type="Name"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_jBupB9eYEeKxv-uxZe5vfg" type="Parent"/>
             <children xmi:type="notation:ListCompartment" xmi:id="_jBupCNeYEeKxv-uxZe5vfg" visible="false" type="Extension_Points"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jBupAteYEeKxv-uxZe5vfg" x="10435" y="3302"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jBupAteYEeKxv-uxZe5vfg" x="9193" y="3170"/>
           </children>
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_jhUvEdeYEeKxv-uxZe5vfg" element="_jhUvENeYEeKxv-uxZe5vfg" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_jhUvE9eYEeKxv-uxZe5vfg" type="ImageCompartment">
@@ -446,7 +446,7 @@
             <styles xmi:type="notation:TextStyle" xmi:id="_rQzMIdesEeKxv-uxZe5vfg"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_rQzMItesEeKxv-uxZe5vfg"/>
             <element xsi:nil="true"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rQzMI9esEeKxv-uxZe5vfg" x="13081" y="1185"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rQzMI9esEeKxv-uxZe5vfg" x="12997" y="634"/>
           </children>
           <children xmi:type="notation:Shape" xmi:id="_uOGDsNesEeKxv-uxZe5vfg" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Req 2.2&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_uOGqwNesEeKxv-uxZe5vfg" type="DiagramName">
@@ -718,7 +718,7 @@
       <ownedComment xmi:id="_SQooMNeJEeKxv-uxZe5vfg" annotatedElement="_Vvn0YNeFEeKxv-uxZe5vfg">
         <body>&lt;p>Product Surface are monitored, It can start or stop the production surface, Wheel out filled bins and replace with empty ones.&lt;/p></body>
       </ownedComment>
-      <ownedUseCase xmi:id="_jBupANeYEeKxv-uxZe5vfg" name="Identifying and seperating good foils">
+      <ownedUseCase xmi:id="_jBupANeYEeKxv-uxZe5vfg" name="Identifying and Separating good foils">
         <ownedComment xmi:id="_xzP_wNecEeKxv-uxZe5vfg" annotatedElement="_jBupANeYEeKxv-uxZe5vfg">
           <body>&lt;p>This works when Conveyer belt is moving. It accepts data from scanner and uses Air Jets to distinguish good and bad foils.&lt;/p></body>
         </ownedComment>
@@ -847,6 +847,7 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OHm6UNeqEeKxv-uxZe5vfg"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_oEpm8NexEeKxv-uxZe5vfg" name="Shaft encoder"/>
     <profileApplication xmi:id="_97ZH3dcGEeKxv-uxZe5vfg">
       <eAnnotations xmi:id="_97ZH3tcGEeKxv-uxZe5vfg" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
